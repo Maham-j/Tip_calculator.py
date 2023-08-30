@@ -1,12 +1,63 @@
-# Tip_calculator.py
-# Tip Calculator 💰
+<div align="center">
+    <img src="Downloads/logo.png" alt="Bill Splitter Logo" width="200"/>
+</div>
 
-The "Tip Calculator" is a Python script that helps you calculate the amount each person needs to pay, including a tip, based
-on the total bill and the number of people. It takes user input for the total bill amount, the number of people sharing the bill, 
-and the desired tip percentage.
+# 💰 Bill Splitter - Your Ultimate Splitting Companion 💰
 
-# Usage
-🐍  Run the script using a Python interpreter.
-📝  Follow the prompts to input the total bill amount (in Rs.), the number of people, and the tip percentage you want to give.
-💡  The script will then calculate the amount each person needs to pay, considering the tip.
-💻 The calculated amount per person will be displayed on the screen.
+A Python script to effortlessly divide bills and tips among friends! No more awkward calculations, let the code handle it for you.
+
+## 🚀 Features
+
+- **Effortless Bill Splitting:** Input the total bill amount, number of people, and desired tip percentage, and get the exact amount each person needs to pay, with the tip distributed evenly.
+
+- **User-Friendly:** An intuitive command-line interface that guides you through the process step by step.
+
+## 🔧 Usage
+
+1. Make sure you have Python installed on your machine.
+
+2. Clone this repository:
+
+    ```sh
+    git clone https://github.com/yourusername/bill-splitter.git
+    cd bill-splitter
+    ```
+
+3. Run the script:
+
+    ```sh
+    python split_bill.py
+    ```
+
+4. Follow the on-screen instructions to enter the bill details and tip percentage.
+
+5. Voilà! The script will provide you with the amount each person needs to contribute, including the tip.
+
+## 🌟 Example
+
+```
+Enter total bill amount? Rs. 1500
+Enter total number of people: 4
+How much tip do you want to give? (%) 10
+Amount per person: Rs. 413
+```
+
+## 🎉 Contribution
+
+Found a bug or want to add a new feature? Contributions are welcome! Fork the repo, make your changes, and submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ by [MAHAM.J](MAHAM.J)
+
+GitHub: [https://github.com/Maham-j]
+
+LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+
+HackerRank: [https://www.hackerrank.com/mahamjamil596]
+
+If you find this project helpful, why not show your support by giving it a ⭐️!
