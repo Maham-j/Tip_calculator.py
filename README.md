@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Downloads/logo.png" alt="Bill Splitter Logo" width="200"/>
+    <img src="logo.png" alt="Bill Splitter Logo" width="200"/>
 </div>
 
 # 💰 Bill Splitter - Your Ultimate Splitting Companion 💰
@@ -46,6 +46,12 @@ Amount per person: Rs. 413
 
 Found a bug or want to add a new feature? Contributions are welcome! Fork the repo, make your changes, and submit a pull request.
 
+GitHub: [https://github.com/Maham-j]
+
+LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+
+HackerRank: [https://www.hackerrank.com/mahamjamil596]
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -54,10 +60,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Made with ❤️ by [MAHAM.J](MAHAM.J)
 
-GitHub: [https://github.com/Maham-j]
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
-
-HackerRank: [https://www.hackerrank.com/mahamjamil596]
 
 If you find this project helpful, why not show your support by giving it a ⭐️!
