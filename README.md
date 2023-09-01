@@ -50,7 +50,7 @@ GitHub: [https://github.com/Maham-j]
 
 LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
 
-HackerRank: [https://www.hackerrank.com/mahamjamil596]
+HackerRank: [https://www.hackerrank.com/maham_jamil]
 
 ## 📄 License
 
